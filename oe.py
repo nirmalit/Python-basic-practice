@@ -5,4 +5,4 @@ if a>=0:
     else:
         print("odd")
 else:
-    print("Invalid")
+    print("invalid")
