@@ -1,0 +1,10 @@
+--CREATE TABLE patientinfo (id INTEGER[4],title VARCHAR,firstname VARCHAR,lastname VARCHAR,age INTEGER,gender VARCHAR,city VARCHAR,phoneno INTEGER[10])
+--CREATE TABLE gamer(name VARCHAR,game VARCHAR)
+--INSERT into gamer (name,game) VALUES("mortal","pubg")
+--INSERT INTO patientinfo VALUES(4,"checkup","raj","kumar",65,"m","meelpakkam",7999119);
+--DELETE patientinfo WHERE COLUMN="gender";
+--SELECT patientinfo.firstname,patientinfo.city,consult.fees FROM patientinfo JOIN consult where patientinfo.id=consult.id;   
+--SELECT *FROM patientinfo join consult ON patientinfo.id=consult.id;
+--SELECT sum(fees,) FROM patientinfo GROUP BY id ;
+--SELECT max(fees) FROM consult;
+--SELECT sum(fees) FROM consult;
