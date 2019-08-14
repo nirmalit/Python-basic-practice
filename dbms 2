@@ -1,0 +1,6 @@
+--CREATE TABLE docinfo (docid int,name VARCHAR,speclization VARCHAR,phnno int,availability varchar);
+--INSERT INTO docinfo VALUES(14,"sai","cardio",92212456,"mor");
+--SELECT * FROM docinfo;
+--CREATE TABLE consult(id int,fees int,health char,consult_date date);
+--insert into consult VALUES(4,4500,'fever','20-05-2019');
+SELECT * from consult;
